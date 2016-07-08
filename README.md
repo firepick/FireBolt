@@ -8,4 +8,4 @@ FireBolt&trade; lets you create your own custom linear actuators for minimal cos
 using globally available industry standard components.
 
 * [See the video](https://www.youtube.com/edit?o=U&video_id=sHDKxYc0n_I) for an overview of FireBolt&trade; M5Duo 
-* [See FireBolt&trade; Wiki](https://github.com/firepick/FireBolt/wiki) for information on building your own FireBolt&trade;
+* [See the wiki](https://github.com/firepick/FireBolt/wiki) for information on building your own FireBolt&trade;
